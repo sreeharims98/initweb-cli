@@ -1,0 +1,24 @@
+{
+  "name": "@sreeharims/initweb-cli",
+  "version": "1.0.1",
+  "description": "A simple CLI tool to quickly scaffold a starter HTML/CSS/JS project in a new folder.",
+  "main": "index.js",
+  "bin": {
+    "init-web": "index.js"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "js",
+    "cli",
+    "starter",
+    "template",
+    "folder"
+  ],
+  "author": "Sreehari MS",
+  "license": "MIT",
+  "dependencies": {},
+  "engines": {
+    "node": ">=10.0.0"
+  }
+}
