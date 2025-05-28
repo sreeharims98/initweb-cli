@@ -1,6 +1,6 @@
 {
   "name": "@sreeharims/initweb-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple CLI tool to quickly scaffold a starter HTML/CSS/JS project in a new folder.",
   "main": "index.js",
   "bin": {
